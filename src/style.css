@@ -113,6 +113,10 @@
 @theme {
 	--font-satoshi: "Satoshi", sans-serif;
 
-	--color-brand: oklch(54.6% 0.245 262.881);
-	--color-brand-strong: oklch(48.8% 0.243 264.376);
+	--color-primary1: #003e29;
+	--color-primary2: #e4bba1;
+	--color-primary3: #d9d9d9;
+	--color-borderColor: #787878;
+	--color-bgColor: #ededed;
+	--color-bgGreen: #023423;
 }
